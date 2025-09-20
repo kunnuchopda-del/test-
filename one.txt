@@ -1,2 +1,7 @@
 tis is my fist commit
 this is more commit in tow to one file
+
+
+tis is my fist commit
+this is more commit in tow to one filetis is my fist commit
+this is more commit in tow to one file
